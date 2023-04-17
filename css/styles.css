@@ -505,7 +505,7 @@ a {
 
 .footer-link:hover,
 .footer-link:focus {
-    background-color: var(--light-color);
+    background-color: #31d0aa;
 }
 
 .footer-icon {
