@@ -471,9 +471,7 @@ a {
     border: 1px solid var(--purple-color);
 }
 
-/* .clients-icon:hover {
-    fill: var(--purple-color);
-} */
+
 
 .footer-style {
     background-color: var(--grey-color);
@@ -507,7 +505,7 @@ a {
 
 .footer-link:hover,
 .footer-link:focus {
-    background-color: #31d0aa;
+    background-color: var(--light-color);
 }
 
 .footer-icon {
