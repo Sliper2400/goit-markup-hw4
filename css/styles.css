@@ -460,15 +460,19 @@ a {
     justify-content: center;
     /* width: 168px; */
     height: 88px;
-    fill: var(--light-gray);
+    color: var(--light-gray);
     border: 1px solid var(--light-gray);
     border-radius: 4px;
 }
 
 .clients-link:hover,
 .clients-link:focus {
-    fill: var(--purple-color);
+    color: var(--purple-color);
     border: 1px solid var(--purple-color);
+}
+
+.clients-icon {
+    fill: currentColor;
 }
 
 
