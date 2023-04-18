@@ -503,9 +503,14 @@ a {
 
 .socials-web {
     display: flex;
-    gap: 16px;
 }
 
+.footer-socials {
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
 
 .footer-link {
     display: flex;
