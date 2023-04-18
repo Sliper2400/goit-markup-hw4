@@ -485,6 +485,9 @@ a {
 .footer-style .container {
     display: flex;
     align-items: baseline;
+}
+
+.logo-cont {
     margin-right: 120px;
 }
 
