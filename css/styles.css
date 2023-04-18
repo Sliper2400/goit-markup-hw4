@@ -497,6 +497,10 @@ a {
     margin-bottom: 16px;
 }
 
+.socials-item {
+    gap: 16px;
+}
+
 .footer-link {
     display: flex;
     justify-content: center;
