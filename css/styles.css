@@ -494,7 +494,12 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--white-color);
+    margin-top: 0;
     margin-bottom: 16px;
+}
+
+.socials-web {
+    display: flex;
 }
 
 .socials-item {
@@ -505,7 +510,6 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 16px;
     width: 40px;
     height: 40px;
     background-color: var(--blue-color);
